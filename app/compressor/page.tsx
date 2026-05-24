@@ -3,7 +3,7 @@
 import { useCallback, useEffect, useRef, useState } from "react";
 import { ImageMinus, Download, RotateCcw } from "lucide-react";
 import { ToolPage } from "@/components/layout/tool-page";
-import { Card, CardHeader } from "@/components/ui/card";
+import { Card, CardHeader } from "@/components/card";
 import { DropZone } from "@/components/ui/drop-zone";
 import { Slider } from "@/components/ui/slider";
 import { Button } from "@/components/ui/button";

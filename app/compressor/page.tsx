@@ -130,7 +130,7 @@ export default function CompressorPage() {
   return (
     <ToolPage
       title="Image Compressor"
-      description="Re-encode JPG and PNG images in your browser with adjustable quality. Compare file sizes instantly."
+      description=""
       icon={<ImageMinus className="h-6 w-6" />}
     >
       {!file ? (

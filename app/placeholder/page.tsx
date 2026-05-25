@@ -61,7 +61,7 @@ export default function PlaceholderPage() {
   return (
     <ToolPage
       title="SVG Placeholder Generator"
-      description="Create customizable SVG placeholders with live preview. Copy the markup for use in prototypes and mockups."
+      description=""
       icon={<Shapes className="h-6 w-6" />}
     >
       <div className="grid gap-6 lg:grid-cols-2">

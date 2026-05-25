@@ -91,8 +91,7 @@ export default function CropperPage() {
   return (
     <ToolPage
       title="Image Cropper"
-      description="Crop and rotate JPG or PNG images with interactive handles and common aspect ratio presets."
-      icon={<Crop className="h-6 w-6" />}
+description=""      icon={<Crop className="h-6 w-6" />}
     >
       {!imageSrc ? (
         <Card>

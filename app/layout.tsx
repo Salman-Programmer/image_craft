@@ -26,7 +26,7 @@ export default function RootLayout({
     <html lang="en" className="dark">
       <body className={`${inter.variable} font-sans`}>
         <Navbar/>
-        <main className="min-h-screen pt-14 pb-20 pl-0 lg:pt-0 lg:pb-0 lg:pl-64">
+        <main className="min-h-screen pt-14 pb-20 pl-0 lg:pt-0 lg:pb-0 ">
           <div className="px-4 py-6 md:px-8 md:py-10 lg:px-10">
             {children}
           </div>
